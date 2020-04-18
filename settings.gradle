@@ -1,0 +1,3 @@
+rootProject.name='Dynamik delivry featureAPP'
+include ':app'
+include ':news_feature'
